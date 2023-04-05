@@ -1,0 +1,8 @@
+{
+  ...
+  "scripts": {
+    ...
+    "test:e2e": "playwright test",
+    "test:debug": "playwright test --project=chromium --debug"
+  }
+}
